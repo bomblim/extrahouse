@@ -6,19 +6,9 @@
 
 ### 📱 전화 / 문자
 
-**010-0000-0000**
+**010-8888-8888**
 
-오전 9시 ~ 오후 9시
-
-</div>
-
-<div class="card contact-card">
-
-### 💬 카카오톡
-
-**@extrahouse**
-
-채널 친구 추가 후 문의
+언제나 전화 가능
 
 </div>
 
@@ -28,7 +18,15 @@
 
 **제천시 청풍호로 42길 97**
 
-주차 2대 가능
+주차 2대 이상 가능
+
+</div>
+
+<div class="card contact-card">
+
+### ✉️ E-Mail
+
+**jackey.park@naver.com**
 
 </div>
 

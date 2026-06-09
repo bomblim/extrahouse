@@ -49,6 +49,23 @@ body  {
   margin-bottom: 32px; color: #1a1a1a;
 }
 
+/* ===== 요약 바 ===== */
+.summary-bar {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 28px;
+  flex-wrap: wrap;
+}
+.summary-bar span {
+  background: #edf7f1;
+  border: 1px solid #b2ddc4;
+  color: #2c7a4b;
+  font-weight: 600;
+  font-size: .95rem;
+  padding: 8px 20px;
+  border-radius: 999px;
+}
+
 /* ===== 카드 그리드 ===== */
 .card-grid {
   display: grid;
