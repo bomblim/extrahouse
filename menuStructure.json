@@ -3,6 +3,7 @@
   "subtitle": "편안한 휴식을 위한 이용 안내",
   "footer": "© 2026 엑스트라하우스 · 문의: 010-0000-0000",
   "menu": [
+    { "id": "intro",       "label": "🏡 소개",             "file": "content/intro.md" },
     { "id": "reservation","label": "📅 예약 안내",        "file": "content/reservation.md" },
     { "id": "checkin",    "label": "🕐 체크인/아웃",     "file": "content/checkin.md" },
     { "id": "facilities", "label": "🏠 시설 안내",        "file": "content/facilities.md" },
